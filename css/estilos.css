@@ -1,7 +1,7 @@
 body
 {
-    color: #333;
-    text-align: center;
+    color: rgb(114, 0, 108);
+    text-align: left;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
@@ -9,10 +9,10 @@ body
 }
 #container
 {
-    width: 70%;
+    width: 30%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(160, 35, 35);
     margin: 0 auto;
 }
 
