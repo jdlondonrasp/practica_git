@@ -1,2 +1,2 @@
-# practica_git
-Aprendiendo git remoto
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
